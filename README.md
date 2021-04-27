@@ -2,10 +2,11 @@
 
 ---
 
-I am a ZARKTI Zakaria, a Moroccan web dev. I write Javascript and PHP on a daily basis. My main experience include work using Laravel Vue.js & Nuxt.js. Over the years I developed a strong eye for good design, and I know my basics when it comes to UI/UX & Graphics.
+I am a ZARKTI Zakaria, a Moroccan full-stack web developer. I write Javascript and PHP on a daily basis. My main experience include work using Laravel Vue.js & Nuxt.js. Over the years I developed a strong eye for good design, and I know my basics when it comes to UI/UX & Graphics.
 
 I share technical articles on my [blog](https://zarkti.tech/blog), and Sometimes threads on [twitter](https://twitter.com/ZarktiZakaria)
 
+---
 
 <!--
 🧰 Toolbox
@@ -32,4 +33,3 @@ I share technical articles on my [blog](https://zarkti.tech/blog), and Sometimes
 
 ▶ [...more blog articles](https://zarkti.tech)
 
----
