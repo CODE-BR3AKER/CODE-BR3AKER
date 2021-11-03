@@ -1,4 +1,4 @@
-### Thanks for checking my profil 👋
+### Thanks for checking my profile 👋
 
 ---
 Hello, I'm Zakaria, a Moroccan full-stack web developer. Since 2018, I have been developing tools that are user-friendly, simple, and delightful for businesses .I write *Javascript* and *PHP* on a daily basis. I have experience working with **Laravel** **Vue.js** & **Nuxt.js**.
