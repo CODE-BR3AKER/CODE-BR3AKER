@@ -2,7 +2,7 @@
 
 - :wave: I’m Zakaria, a Software developer at [Neoshelf](https://www.neoshelf.com).
 - :rocket: I helps founders by crafting software using Vue and Php Stack.
-- :flag-ma: I'm based in Tetouan, Morocco.
+- 🇲🇦 I'm based in Tetouan, Morocco.
 - :hammer: I'm currently learning Go & docker by building simple projects.
 - :pencil: I blog from time to time about my journey as a developer.
 - :hearts: I'm into football :soccer: and productivity :dart:.
