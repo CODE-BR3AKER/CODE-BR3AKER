@@ -11,7 +11,7 @@
 
 - :space_invader: **Environment**: Git, GitHub, Agile (Scrum), JIRA, Jenkins & Test Driven Development.
 - :computer: **Code**:  Javascript, Php, Vue, Laravel, Nuxt, Go.
-- :chart_with_upwards_trend: **Data**: PostgreSQL, Redis, MySQL, CloudSQL & ElasticSearch.
+- :chart_with_upwards_trend: **Data**: PostgreSQL, Redis, MySQL & ElasticSearch.
 - :cloud: **Deployment**: Docker, AWS, Google cloud, Heroku, Netlify, Nginx.
 
 ## Get In Touch
