@@ -1,6 +1,6 @@
 ## Hi there!
 
-- :wave: I’m Zakaria, a Software developer at [Neoshelf](https://www.neoshelf.com).
+- :wave: I’m Zakaria, a Software developer Currently working at [Neoshelf](https://www.neoshelf.com).
 - :rocket: I helps founders by crafting software using Vue and Php Stack.
 - 🇲🇦 I'm based in Tetouan, Morocco.
 - :hammer: I'm currently learning Go & docker by building simple projects.
