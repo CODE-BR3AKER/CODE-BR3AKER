@@ -17,17 +17,17 @@
 ## Get In Touch
 
 - Feel free to:
-    - DM me on [Twitter](https://twitter.com/zarktizakaria) :zap:
-    - :outbox_tray: me at hello@zarkti.tech
+    - DM me on [Twitter](https://twitter.com/zack_dotcom) :zap:
+    - :outbox_tray: me at zarktizakaria@gmail.com
 
 
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [My experience with hult prize](https://zarkti.tech/blog/hult)
-- [What's new about vue3](https://zarkti.tech/blog/vue)
-- [The ultimate git guide](https://zarkti.tech/blog/git)
+- [My experience with hult prize](https://itszack.tech/blog/hult)
+- [What's new about vue3](https://itszack.tech/blog/vue)
+- [The ultimate git guide](https://itszack.tech/blog/git)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://zarkti.tech)
+▶ [...more blog articles](https://itszack.tech)
 
