@@ -24,9 +24,7 @@
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [My experience with hult prize](https://itszack.tech/blog/hult)
-- [What's new about vue3](https://itszack.tech/blog/vue)
-- [The ultimate git guide](https://itszack.tech/blog/git)
+
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://itszack.tech)
