@@ -24,7 +24,11 @@
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Get started with Linode](http://localhost:3000/blog/linode)
+- [Truth Of Belief Systems](http://localhost:3000/blog/belief systems)
+- [What is scrum](http://localhost:3000/blog/scrum)
+- [6 Lessons from HULT](http://localhost:3000/blog/hult)
+- [What&#39;s new about vue.3](http://localhost:3000/blog/vue)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://itszack.tech)
