@@ -14,12 +14,6 @@
 - :chart_with_upwards_trend: **Data**: PostgreSQL, Redis, MySQL & ElasticSearch.
 - :cloud: **Deployment**: Docker, AWS, Google cloud, Heroku, Netlify, Nginx.
 
-## Get In Touch
-
-- Feel free to:
-    - DM me on [Twitter](https://twitter.com/zack_dotcom) :zap:
-    - :outbox_tray: me at zarktizakaria@gmail.com
-
 
 ## 📘 Latest Blog Articles
 
