@@ -1,7 +1,7 @@
 ## Hi there!
 
 - 🇲🇦 I’m Zakaria, a Software developer from Morocco.
-- :rocket: I helps founders by crafting software using Vue and Php Stack.
+- :rocket: I helps founders by crafting apps using Vue and Php Stack.
 - :hammer: I'm currently learning AI by building simple projects.
 - :hearts: I blog & hit the gym in my free time.
 
