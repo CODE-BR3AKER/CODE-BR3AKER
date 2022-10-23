@@ -1,11 +1,9 @@
 ## Hi there!
 
-- :wave: I’m Zakaria, a Software developer.
+- 🇲🇦 I’m Zakaria, a Software developer from Morocco.
 - :rocket: I helps founders by crafting software using Vue and Php Stack.
-- 🇲🇦 I'm based in Tetouan, Morocco.
-- :hammer: I'm currently learning Go & docker by building simple projects.
-- :pencil: I blog from time to time about my journey as a developer.
-- :hearts: I'm into football :soccer: and productivity :dart:.
+- :hammer: I'm currently learning AI by building simple projects.
+- :hearts: I blog & hit the gym in my free time.
 
 ## What I Do Well
 
