@@ -16,11 +16,11 @@
 ## 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [What is scrum](https://itszack.tech/blog/scrum)
-- [6 Lessons from HULT](https://itszack.tech/blog/hult)
-- [What&#39;s new about vue.3](https://itszack.tech/blog/vue)
-- [The ultimate git guide](https://itszack.tech/blog/git)
+- [What is scrum](https://devzack.com/blog/scrum)
+- [6 Lessons from HULT](https://devzack.com/blog/hult)
+- [What&#39;s new about vue.3](https://devzack.com/blog/vue)
+- [The ultimate git guide](https://devzack.com/blog/git)
 <!-- BLOG-POST-LIST:END -->
 
-▶ [...more blog articles](https://itszack.tech)
+▶ [...more blog articles](https://devzack.com)
 
